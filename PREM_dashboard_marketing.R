@@ -3,7 +3,7 @@
 # Update:       None
 # Name:         Data for dashboard for regiomanagers
 # Instructions: First, define paths (see ## Define the paths. See Export for instructions for Export.
-# Export:       Exporteer de vragenlijsten (patientervaring van zowel Xpert als Velthuis en Helder) 
+# Export:       Exporteer de vragenlijsten (patientervaring van alle merken) 
 #               en vink alleen "Exporteer vragen in plaats van variabele namen" uit.
 
 
